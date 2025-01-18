@@ -1,4 +1,4 @@
-#include "SDL2/include/SDL2/SDL.h"
+#include "../SDL2/include/SDL2/SDL.h"
 
 #define SCREEN_WIDTH 640
 #define SCREEN_HEIGHT 480
